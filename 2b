@@ -1,0 +1,60 @@
+1. What does WEKA stand for?
+General
+Web Environment for Knowledge Analysis
+Waikato Environment for Knowledge Analysis
+Workflow Environment for Knowledge Algorithms
+Weka Environment for Knowledge Assessment
+2. Which WEKA interface is used for designing data mining pipelines using drag and drop?
+WEKA Interfaces
+Explorer
+KnowledgeFlow
+Experimenter
+Simple CLI
+3. What is the file extension of WEKA‘s native data format?
+Data Format
+.csv
+.arff
+.txt
+.data
+4. In the weather.nominal dataset, which attribute is typically the class attribute?
+Recall
+outlook
+temperature
+humidity
+play
+5. How many instances does the iris dataset contain?
+Recall
+50
+100
+150
+200
+6. Which tab in WEKA Explorer is used to apply filters like 'Normalize'?
+WEKA Interface
+Classify
+Preprocess
+Cluster
+Select attributes
+7. What does a histogram show in WEKA?
+Visualization
+Correlation between attributes
+Frequency distribution of a single attribute
+Cluster centroids
+Decision tree rules
+8. Which of the following is NOT a valid attribute type in ARFF?
+ARFF
+numeric
+nominal
+binary
+date
+9. What is the primary purpose of the Visualize tab?
+WEKA Interface
+To run classifiers
+To apply filters
+To create scatter plots and examine data
+To generate association rules
+10. In WEKA‘s Classify panel, what does 10‑fold cross‑validation mean?
+Evaluation
+Split data into 10 parts, train on 9, test on 1, repeat 10 times
+Train on 90% of data, test on 10% once
+Train on 10% of data, test on 90%
+Create 10 decision trees
